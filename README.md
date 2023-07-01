@@ -1,3 +1,3 @@
 # Registration Form
 
-![React App](./public/logo512.png)
+![Creating repo from a template step 1](./public/logo512.png)
